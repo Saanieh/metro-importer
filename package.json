@@ -1,0 +1,10 @@
+{
+  "name": "metro-importer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "xlsx": "^0.12.1"
+  }
+}
